@@ -21,8 +21,6 @@ input:focus{
 }
 .qr-img{
    padding: 5px; 
-   height: 200px;
-   width: 200px;
    border-radius: 10px;
 }
 .input-label{
