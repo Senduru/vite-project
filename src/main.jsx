@@ -5,6 +5,6 @@ import Qr_gen from './componets/Qr_gen'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Qr_gen/>
+    <Qr_gen />
   </React.StrictMode>,
 )
