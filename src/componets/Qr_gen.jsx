@@ -4,7 +4,7 @@ export default function Qr_gen() {
   const [img,Setimg]=useState("")
   const [load,setload]=useState(false)
   const [data,setdata]=useState("https://www.linkedin.com/in/senduru/")
-  const [size,setsize]=useState("150")
+  const [size,setsize]=useState("200")
   const [down,setdown]=useState(true)
   const audio = new Audio('sound/btn1.mp3');
   const audio1 =new Audio("sound/btn2.mp3")
